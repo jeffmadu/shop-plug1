@@ -1,0 +1,18 @@
+.productImg {
+  width: 50%;
+}
+.productPrice,
+.productName {
+  font-size: 30px;
+}
+.productName {
+  margin-bottom: 20px;
+}
+
+.cartProduct {
+  display: flex;
+}
+
+.productPrice {
+  margin-right: 100px;
+}
